@@ -7,28 +7,28 @@
 
 @font-face {
   font-family: "rp";
-  src: url("./assets/fonts/ReplicaProRegular.otf");
+  src: url("../fonts/ReplicaProRegular.otf");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "rp";
-  src: url("./assets/fonts/ReplicaProItalic.otf");
+  src: url("../fonts/ReplicaProItalic.otf");
   font-weight: normal;
   font-style: italic;
 }
 
 @font-face {
   font-family: "rp";
-  src: url("./assets/fonts/ReplicaProBold.otf");
+  src: url("../fonts/ReplicaProBold.otf");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: "rp";
-  src: url("./assets/fonts/ReplicaProBoldItalic.otf");
+  src: url("../fonts/ReplicaProBoldItalic.otf");
   font-weight: bold;
   font-style: italic;
 }
